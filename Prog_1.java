@@ -5,7 +5,7 @@ public class Prog_1
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        if(n%2==1 || n==2)
+        if(n%2==1||n==2)
         {
             System.out.println("No");
         }
